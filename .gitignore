@@ -28,7 +28,7 @@ desktop.ini
 
 # Lockfiles (optional)
 package-lock.json
-pnpm-lock.yaml
+pnpm-lock.yaml   
 
 # OneDrive temporary files
 ~$*
